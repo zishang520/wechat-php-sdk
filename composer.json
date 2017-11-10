@@ -1,7 +1,6 @@
 {
     "name": "luoyy/wechat-php-sdk",
     "description": "the wechat api library without framework dependency",
-    "version": "1.1",
     "require": {
         "php": ">=5.1.0"
     },
